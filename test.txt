@@ -1,6 +1,8 @@
-学习github中
-演示1
 
-改
-改
-9.11  obsidian多端同步的Git方法     https://gitcode.csdn.net/65aa44b7b8e5f01e1e4500ba.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDg2ODE0MiwiZXhwIjoxNzI2NjIzNTY4LCJpYXQiOjE3MjYwMTg3NjgsInVzZXJuYW1lIjoiMjMwMV84MDE0MTA3MyJ9.eAemo3ZjfklLNKuoiNV8jpyGV0Xxosn6osHiunkS7GI&spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-5-124545986-blog-131390109.235%5Ev43%5Epc_blog_bottom_relevance_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-5-124545986-blog-131390109.235%5Ev43%5Epc_blog_bottom_relevance_base3&utm_relevant_index=10
+9.11     obsidian多端同步的Git方法  
+   https://gitcode.csdn.net/65aa44b7b8e5f01e1e4500ba.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDg2ODE0MiwiZXhwIjoxNzI2NjIzNTY4LCJpYXQiOjE3MjYwMTg3NjgsInVzZXJuYW1lIjoiMjMwMV84MDE0MTA3MyJ9.eAemo3ZjfklLNKuoiNV8jpyGV0Xxosn6osHiunkS7GI&spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-5-124545986-blog-131390109.235%5Ev43%5Epc_blog_bottom_relevance_base3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-5-124545986-blog-131390109.235%5Ev43%5Epc_blog_bottom_relevance_base3&utm_relevant_index=10
+
+
+9/15LLM
+ 1.视觉里程计
+https://zhuanlan.zhihu.com/p/23382110
